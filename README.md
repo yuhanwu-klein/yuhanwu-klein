@@ -4,7 +4,7 @@ I'm a product designer who builds what I design. I study Interaction Design at A
 
 In summer 2026 I designed and built Yunhu Digital, a B2B collaboration platform for a coatings manufacturer: an iOS app and a web admin, now in TestFlight beta. On PoPo, an AI photo-correction app, ten interviews taught me the rule I now bring to every AI product: decide what the AI should not do, and always show people what it changed.
 
-I work AI-first. I prototype in React, Three.js and Unity with Claude Code and Gemini, and I turned my own research-to-redesign process into an open-source Claude Code skill, [benchmark-redesign](https://github.com/yuhanwu-klein/benchmark-redesign), tested against a baseline without it.
+I work AI-first, in code. I build with Claude Code, and when a prototype needs a model, I connect one: in [Voxel Ocean Diver](https://github.com/yuhanwu-klein/voxel-ocean-diver), Gemini 2.5 Flash calls tools to change the time of day, the fog and the story of a 3D sea. I also turned my research-to-redesign process into an open-source Claude Code skill, [benchmark-redesign](https://github.com/yuhanwu-klein/benchmark-redesign), and tested it like a product, with 24 graded checks against the same model without it. One revision cut its run time by 27%, and it still passed every check.
 
 I'm looking for Spring 2027 product design internships, anywhere in the world.
 
