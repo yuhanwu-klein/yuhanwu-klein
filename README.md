@@ -1,6 +1,12 @@
 # Hi, I'm Yuhan Wu
 
-I'm a product and AI experience designer studying Interaction Design at ArtCenter College of Design. I take products from research and flows to the final interface, and I often build what I design.
+I'm a product designer who builds what I design. I study Interaction Design at ArtCenter, and I take products from user interviews and a PRD to working software.
+
+In summer 2026 I designed and built Yunhu Digital, a B2B collaboration platform for a coatings manufacturer: an iOS app and a web admin, now in TestFlight beta. On PoPo, an AI photo-correction app, ten interviews taught me the rule I now bring to every AI product: decide what the AI should not do, and always show people what it changed.
+
+I work AI-first. I prototype in React, Three.js and Unity with Claude Code and Gemini, and I turned my own research-to-redesign process into an open-source Claude Code skill, [benchmark-redesign](https://github.com/yuhanwu-klein/benchmark-redesign), tested against a baseline without it.
+
+I'm looking for Spring 2027 product design internships, anywhere in the world.
 
 **Portfolio:** [yuhanwu.work](https://yuhanwu.work)
 
